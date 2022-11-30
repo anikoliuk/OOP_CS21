@@ -1,0 +1,6 @@
+﻿  Array.cpp
+  Lab2.cpp
+  Generating Code...
+C:\Users\Huawei\Desktop\Studying(lab)\programming\Lab2\Lab2\Array.h(37): warning C4172: returning address of local variable or temporary: result
+C:\Users\Huawei\Desktop\Studying(lab)\programming\Lab2\Lab2\Array.cpp(61): warning C4715: 'Array::operator[]': not all control paths return a value
+  Lab2.vcxproj -> C:\Users\Huawei\Desktop\Studying(lab)\programming\Lab2\x64\Debug\Lab2.exe
